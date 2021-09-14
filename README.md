@@ -2,7 +2,7 @@
 
 - 📚 I'm currently in the 5th period of the Information Systems course at IFMG and in the last module of the Systems Development technical course at COLTEC-UFMG
 - 📱 Among the development areas, I can say that mobile development is what I like the most
-- 🌱 I’m currently learning Swift and Kotlin
+- 🌱 I’m currently learning Swift
 - 🤸🏻‍♂️ Fun fact: I like to practice calisthenics
 - 😄 Pronouns: he/him
 
