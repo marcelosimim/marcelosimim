@@ -17,7 +17,6 @@
   <img align="center" alt="Marcelo-Swift" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Marcelo-Android" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Marcelo-Java" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-   <img align="center" alt="Marcelo-Kotlin" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 
 </div>
 
