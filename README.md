@@ -6,15 +6,12 @@
  <div>
   <a href="https://github.com/marcelosimim">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcelosimim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosimim&layout=compact&langs_count=7&theme=algolia"/>
+ <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosimim&layout=compact&langs_count=7&theme=algolia"/>-->
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcelo-Flutter" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+ 
+ <div style="display: inline_block;"><br>
    <img align="center" alt="Marcelo-Apple" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="Marcelo-Swift" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Marcelo-Android" height="30" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Marcelo-Java" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-
 </div>
 
 <!--
