@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 📚 I'm currently in the 5th period of the Information Systems course at IFMG and in the last module of the Systems Development technical course at COLTEC-UFMG
-- 📱 Among the development areas, I can say that mobile development is what I like the most
-- 🌱 I’m currently learning Swift
+- 📚 I'm currently in the 6th period of the Information Systems course at IFMG.
+- 📱 I'm an iOS Developer and I currently work at CI&T. 
+
  <div>
   <a href="https://github.com/marcelosimim">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcelosimim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
