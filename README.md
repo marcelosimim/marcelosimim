@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📚 I'm currently in the 7th period of the Information Systems course at IFMG.
+- 📚 I'm currently in the last period of the Information Systems course at IFMG.
 - 📱 I'm an iOS Developer and I currently work at CI&T. 
 
  <div style="display: inline_block;"><br>
